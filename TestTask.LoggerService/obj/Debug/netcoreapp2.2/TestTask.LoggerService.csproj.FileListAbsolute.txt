@@ -1,0 +1,9 @@
+C:\MyProj\C#\TestTask.WebService\TestTask.LoggerService\bin\Debug\netcoreapp2.2\TestTask.LoggerService.deps.json
+C:\MyProj\C#\TestTask.WebService\TestTask.LoggerService\bin\Debug\netcoreapp2.2\TestTask.LoggerService.dll
+C:\MyProj\C#\TestTask.WebService\TestTask.LoggerService\obj\Debug\netcoreapp2.2\TestTask.LoggerService.csproj.CoreCompileInputs.cache
+C:\MyProj\C#\TestTask.WebService\TestTask.LoggerService\obj\Debug\netcoreapp2.2\TestTask.LoggerService.AssemblyInfoInputs.cache
+C:\MyProj\C#\TestTask.WebService\TestTask.LoggerService\obj\Debug\netcoreapp2.2\TestTask.LoggerService.AssemblyInfo.cs
+C:\MyProj\C#\TestTask.WebService\TestTask.LoggerService\bin\Debug\netcoreapp2.2\TestTask.LoggerService.pdb
+C:\MyProj\C#\TestTask.WebService\TestTask.LoggerService\obj\Debug\netcoreapp2.2\TestTask.LoggerService.dll
+C:\MyProj\C#\TestTask.WebService\TestTask.LoggerService\obj\Debug\netcoreapp2.2\TestTask.LoggerService.pdb
+C:\MyProj\C#\TestTask.WebService\TestTask.LoggerService\obj\Debug\netcoreapp2.2\TestTask.LoggerService.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\MyProj\C#\TestTask.WebService\TestTask.Models\bin\Debug\netcoreapp2.2\TestTask.Models.deps.json
+C:\MyProj\C#\TestTask.WebService\TestTask.Models\bin\Debug\netcoreapp2.2\TestTask.Models.dll
+C:\MyProj\C#\TestTask.WebService\TestTask.Models\bin\Debug\netcoreapp2.2\TestTask.Models.pdb
+C:\MyProj\C#\TestTask.WebService\TestTask.Models\obj\Debug\netcoreapp2.2\TestTask.Models.csproj.CoreCompileInputs.cache
+C:\MyProj\C#\TestTask.WebService\TestTask.Models\obj\Debug\netcoreapp2.2\TestTask.Models.AssemblyInfoInputs.cache
+C:\MyProj\C#\TestTask.WebService\TestTask.Models\obj\Debug\netcoreapp2.2\TestTask.Models.AssemblyInfo.cs
+C:\MyProj\C#\TestTask.WebService\TestTask.Models\obj\Debug\netcoreapp2.2\TestTask.Models.dll
+C:\MyProj\C#\TestTask.WebService\TestTask.Models\obj\Debug\netcoreapp2.2\TestTask.Models.pdb
+C:\MyProj\C#\TestTask.WebService\TestTask.Models\obj\Debug\netcoreapp2.2\TestTask.Models.csprojAssemblyReference.cache

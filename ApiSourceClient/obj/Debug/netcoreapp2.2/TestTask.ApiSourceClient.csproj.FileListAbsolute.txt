@@ -1,0 +1,14 @@
+C:\MyProj\C#\TestTask.WebService\ApiSourceClient\bin\Debug\netcoreapp2.2\TestTask.ApiSourceClient.deps.json
+C:\MyProj\C#\TestTask.WebService\ApiSourceClient\bin\Debug\netcoreapp2.2\TestTask.ApiSourceClient.dll
+C:\MyProj\C#\TestTask.WebService\ApiSourceClient\obj\Debug\netcoreapp2.2\TestTask.ApiSourceClient.csproj.CoreCompileInputs.cache
+C:\MyProj\C#\TestTask.WebService\ApiSourceClient\obj\Debug\netcoreapp2.2\TestTask.ApiSourceClient.AssemblyInfoInputs.cache
+C:\MyProj\C#\TestTask.WebService\ApiSourceClient\obj\Debug\netcoreapp2.2\TestTask.ApiSourceClient.AssemblyInfo.cs
+C:\MyProj\C#\TestTask.WebService\ApiSourceClient\bin\Debug\netcoreapp2.2\TestTask.ApiSourceClient.pdb
+C:\MyProj\C#\TestTask.WebService\ApiSourceClient\bin\Debug\netcoreapp2.2\TestTask.Models.dll
+C:\MyProj\C#\TestTask.WebService\ApiSourceClient\bin\Debug\netcoreapp2.2\TestTask.Models.pdb
+C:\MyProj\C#\TestTask.WebService\ApiSourceClient\obj\Debug\netcoreapp2.2\TestTask.ApiSourceClient.csproj.CopyComplete
+C:\MyProj\C#\TestTask.WebService\ApiSourceClient\obj\Debug\netcoreapp2.2\TestTask.ApiSourceClient.dll
+C:\MyProj\C#\TestTask.WebService\ApiSourceClient\obj\Debug\netcoreapp2.2\TestTask.ApiSourceClient.pdb
+C:\MyProj\C#\TestTask.WebService\ApiSourceClient\obj\Debug\netcoreapp2.2\TestTask.ApiSourceClient.csprojAssemblyReference.cache
+C:\MyProj\C#\TestTask.WebService\ApiSourceClient\bin\Debug\netcoreapp2.2\TestTask.LoggerService.dll
+C:\MyProj\C#\TestTask.WebService\ApiSourceClient\bin\Debug\netcoreapp2.2\TestTask.LoggerService.pdb

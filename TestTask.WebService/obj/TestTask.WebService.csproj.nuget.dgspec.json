@@ -1,0 +1,264 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\MyProj\\C#\\TestTask.WebService\\TestTask.WebService\\TestTask.WebService.csproj": {}
+  },
+  "projects": {
+    "C:\\MyProj\\C#\\TestTask.WebService\\ApiSourceClient\\TestTask.ApiSourceClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyProj\\C#\\TestTask.WebService\\ApiSourceClient\\TestTask.ApiSourceClient.csproj",
+        "projectName": "TestTask.ApiSourceClient",
+        "projectPath": "C:\\MyProj\\C#\\TestTask.WebService\\ApiSourceClient\\TestTask.ApiSourceClient.csproj",
+        "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+        "outputPath": "C:\\MyProj\\C#\\TestTask.WebService\\ApiSourceClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\MyProj\\C#\\TestTask.WebService\\TestTask.LoggerService\\TestTask.LoggerService.csproj": {
+                "projectPath": "C:\\MyProj\\C#\\TestTask.WebService\\TestTask.LoggerService\\TestTask.LoggerService.csproj"
+              },
+              "C:\\MyProj\\C#\\TestTask.WebService\\TestTask.Models\\TestTask.Models.csproj": {
+                "projectPath": "C:\\MyProj\\C#\\TestTask.WebService\\TestTask.Models\\TestTask.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.6.10, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\MyProj\\C#\\TestTask.WebService\\TestTask.LoggerService\\TestTask.LoggerService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyProj\\C#\\TestTask.WebService\\TestTask.LoggerService\\TestTask.LoggerService.csproj",
+        "projectName": "TestTask.LoggerService",
+        "projectPath": "C:\\MyProj\\C#\\TestTask.WebService\\TestTask.LoggerService\\TestTask.LoggerService.csproj",
+        "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+        "outputPath": "C:\\MyProj\\C#\\TestTask.WebService\\TestTask.LoggerService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.6.5, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\MyProj\\C#\\TestTask.WebService\\TestTask.Models\\TestTask.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyProj\\C#\\TestTask.WebService\\TestTask.Models\\TestTask.Models.csproj",
+        "projectName": "TestTask.Models",
+        "projectPath": "C:\\MyProj\\C#\\TestTask.WebService\\TestTask.Models\\TestTask.Models.csproj",
+        "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+        "outputPath": "C:\\MyProj\\C#\\TestTask.WebService\\TestTask.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\MyProj\\C#\\TestTask.WebService\\TestTask.WebService\\TestTask.WebService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyProj\\C#\\TestTask.WebService\\TestTask.WebService\\TestTask.WebService.csproj",
+        "projectName": "TestTask.WebService",
+        "projectPath": "C:\\MyProj\\C#\\TestTask.WebService\\TestTask.WebService\\TestTask.WebService.csproj",
+        "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+        "outputPath": "C:\\MyProj\\C#\\TestTask.WebService\\TestTask.WebService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\MyProj\\C#\\TestTask.WebService\\ApiSourceClient\\TestTask.ApiSourceClient.csproj": {
+                "projectPath": "C:\\MyProj\\C#\\TestTask.WebService\\ApiSourceClient\\TestTask.ApiSourceClient.csproj"
+              },
+              "C:\\MyProj\\C#\\TestTask.WebService\\TestTask.LoggerService\\TestTask.LoggerService.csproj": {
+                "projectPath": "C:\\MyProj\\C#\\TestTask.WebService\\TestTask.LoggerService\\TestTask.LoggerService.csproj"
+              },
+              "C:\\MyProj\\C#\\TestTask.WebService\\TestTask.Models\\TestTask.Models.csproj": {
+                "projectPath": "C:\\MyProj\\C#\\TestTask.WebService\\TestTask.Models\\TestTask.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
